@@ -19,13 +19,6 @@
     echo "<h1>username: $username</h1>";
     echo "<h1>password: $password</h1>";
   ?>
-    
-  <?php
-    // $conn = pg_connect("host=$host port=$port dbname=$dbname user=$username password=$password");
-    // pg_close($conn);
-    // $res = pg_query($conn, "select version()");
-    // $version = pg_fetch_result($res, 0, 0);
-    // echo "<h1>version: $version</h1>"
-  ?>
+
   </body>
 </html>
